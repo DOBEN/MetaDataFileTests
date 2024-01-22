@@ -1,0 +1,10 @@
+{
+  "name": "CIS2Token",
+  "symbol": "TOK",
+  "decimals": 0,
+  "description": "CIS2Token is an example of a stablecoin.",
+  "thumbnail": { "url": "https://dev.euroe.com/persistent/token-icon/png/32x32.png" },
+  "display": { "url": "https://dev.euroe.com/persistent/token-icon/png/256x256.png" },
+  "artifact": { "url": "https://dev.euroe.com/persistent/token-icon/png/256x256.png" },
+	"unique": false
+}
